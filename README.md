@@ -1,5 +1,4 @@
-# eCart
+# Grocery
 
-Wrteam eCart Customer App
+ Customer App
 
-https://codecanyon.net/item/city-ecommerce-app/22015911
