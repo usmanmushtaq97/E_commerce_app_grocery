@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">eCart</string>
+    <string name="app_name">Bayie Alhalib</string>
 
     <!-- ************************************************************************************************************* -->
     <!--    For privacy policy and terms and condition whatever you set words in privacy_policy and terms_conditions that words must be contain in msg_privacy_terms.Other wise app will crash-->
@@ -27,7 +27,7 @@
     <string name="cod">C.O.D.</string>
     <string name="faq">FAQ</string>
     <string name="logout">Logout</string>
-    <string name="shopbycategory">Shop by Category</string>
+    <string name="shopbycategory">BayieAlhalib by Category</string>
     <string name="search">Search</string>
     <string name="no_category_found">No Category Found</string>
     <string name="view_all">View All</string>

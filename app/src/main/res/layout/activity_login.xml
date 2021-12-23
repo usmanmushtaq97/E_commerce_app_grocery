@@ -155,7 +155,6 @@
         android:background="@drawable/login_curve"
         android:backgroundTint="@color/white"
         android:visibility="visible">
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -163,7 +162,6 @@
             android:backgroundTint="@color/white"
             android:orientation="vertical"
             android:padding="@dimen/dimen_40dp">
-
             <ImageView
                 android:id="@+id/imgVerifyClose"
                 android:layout_width="wrap_content"
@@ -173,7 +171,6 @@
                 android:focusable="true"
                 android:onClick="OnBtnClick"
                 android:src="@drawable/ic_close" />
-
             <TextView
                 android:id="@+id/tvTitle"
                 android:layout_width="wrap_content"
@@ -247,7 +244,7 @@
                 android:orientation="vertical"
                 android:visibility="gone">
 
-                <wrteam.ekart.shop.ui.PinView
+                <bayie.alhalib.shop.ui.PinView
                     android:id="@+id/pinViewOTP"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
